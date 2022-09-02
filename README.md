@@ -1,4 +1,5 @@
 ## Example
+### django serializer ，过滤不需要字段， 限制返回字段等功能， 可以加快返回速度。
 
 ```python
 >>> class UserSerializer(DynamicFieldsModelSerializer):
